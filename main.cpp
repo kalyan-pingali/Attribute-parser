@@ -1,4 +1,4 @@
-// File Description 	: Custom Markup Language
+// File Description 	: Custom Markup Language, Attribute Parse (Contact for details)
 // Version				: 1.0
 // Author Name 			: Kalyan Pingali
 // Contact Information  : pnglkalyan@gmail.com
